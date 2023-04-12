@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="qs_icon_padding_on">15.0dp</dimen>
+    <dimen name="qs_icon_padding_off">15.0dp</dimen>
+
+    <dimen name="qs_icon_padding_on_vector">17.0dp</dimen>
+    <dimen name="qs_icon_padding_off_vector">17.0dp</dimen>
+
+    <dimen name="qs_icon_padding_on_vector2">22.0dp</dimen>
+    <dimen name="qs_icon_padding_off_vector2">22.0dp</dimen>
+
+    <dimen name="qs_icon_padding_on_vector_signal">16.0dp</dimen>
+    <dimen name="qs_icon_padding_off_vector_signal">16.0dp</dimen>
+    <dimen name="qs_icon_padding_on_vector_signal_top">12.0dp</dimen>
+    <dimen name="qs_icon_padding_on_vector_signal_bottom">20.0dp</dimen>
+
+ 
+
+    <dimen name="status_bar_expanded_header_elevation">0dp</dimen>
+
+    <dimen name="status_bar_icon_size">24dip</dimen>
+
+    <dimen name="status_bar_clock_size">14sp</dimen>
+
+    <dimen name="status_bar_icon_drawing_size">17dip</dimen>
+
+    <item type="dimen" name="status_bar_icon_drawing_alpha">90%</item>
+
+    <dimen name="status_bar_icon_padding">0dp</dimen>
+
+    <dimen name="status_bar_header_height">72dp</dimen>
+
+    <dimen name="status_bar_header_height_expanded">110dp</dimen>
+
+
+    <dimen name="qs_panel_side_padding">0dp</dimen>
+
+    <dimen name="qs_tile_spacing">0.0dip</dimen>
+
+    <dimen name="qs_brightness_padding_top">0.0dip</dimen>
+
+    <dimen name="qs_tile_height">88.0dip</dimen>
+
+    <dimen name="qs_tile_icon_size">48dip</dimen>
+
+    <dimen name="qs_tile_text_size">11sp</dimen>
+
+    <dimen name="qs_date_collapsed_size">12sp</dimen>
+
+    <dimen name="qs_time_collapsed_size">26sp</dimen>
+
+    <dimen name="qs_time_expanded_size">32sp</dimen>
+
+    <dimen name="qs_peek_height">0dp</dimen>
+
+    <dimen name="qs_emergency_calls_only_text_size">8sp</dimen>
+
+     <dimen name="notification_material_rounded_rect_radius">1.0dip</dimen>
+
+    <dimen name="notification_material_rounded_rect_radius_negative">-2dp</dimen>
+
+    <dimen name="notification_side_padding">5.0dp</dimen>
+
+    <dimen name="notification_header_side_padding">0dp</dimen>
+
+    <dimen name="brightness_dialog_side_padding">0dp</dimen>
+
+    <dimen name="volume_panel_z">0dp</dimen>
+
+    <dimen name="fake_shadow_size">2dp</dimen>
+	
+		<dimen name="keyguard_lockscreen_outerring_diameter">0.0dip</dimen>
+    <dimen name="keyguard_affordance_height">50.0dip</dimen>
+    <dimen name="keyguard_affordance_width">50.0dip</dimen>
+    <dimen name="keyguard_affordance_icon_height">60.0dip</dimen>
+    <dimen name="keyguard_affordance_icon_width">60.0dip</dimen>
+	<dimen name="keyguard_affordance_min_background_radius">0.0dip</dimen>
+
+ <dimen name="ic_volume_padding">7.0dp</dimen>
+ 
+ 
+ 
+</resources>

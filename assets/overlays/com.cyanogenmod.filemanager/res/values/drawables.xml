@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <item type="drawable" name="background_drawable">#ffffffff</item>
+
+    <item type="drawable" name="statusbar_drawable">#1C4C63</item>
+
+    <item type="drawable" name="bg_material_titlebar">#1C4C63</item>
+    <item type="drawable" name="bg_material_statusbar">#1C4C63</item>
+    <item type="drawable" name="bg_header">#1C4C63</item>
+
+    <item type="drawable" name="divider_vertical_bright_opaque">#1C4C63</item>
+    <item type="drawable" name="divider_horizontal_bright_opaque">#1C4C63</item>
+</resources>

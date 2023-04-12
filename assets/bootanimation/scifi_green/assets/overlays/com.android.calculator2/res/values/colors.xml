@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>	
+    <color name="background_material_dark">#1C4C63</color>
+    <color name="background_material_light">#1C4C63</color>
+    <color name="background_floating_material_dark">#1C4C63</color>
+    <color name="background_floating_material_light">#1C4C63</color>
+    <color name="primary_material_dark">#1C4C63</color>
+	<color name="KillTheUltron">#1C4C63</color>
+	<color name="button_material_dark">#1C4C63</color>
+    <color name="primary_material_light">#1C4C63</color>
+    <color name="accent_material_light">#1C4C63</color>
+    <color name="accent_material_dark">#1C4C63</color>
+	<color name="button_material_light">#1C4C63</color>
+	<color name="pressed_color">#ffffff</color>
+    <color name="calculator_accent_color">#1C4C63</color>
+	<color name="history_input">#76C2AF</color>
+    <color name="history_result">#76C2AF</color>
+	<color name="display_formula_text_color">#ffffff</color>
+    <color name="display_result_text_color">#ffffff</color>
+    <color name="pad_text_color_disabled">#aaff6000</color>
+    <color name="pad_button_ripple_color">#ffffff</color>
+    <color name="pad_advanced_text_color_normal">#ffffffff</color>
+    <color name="pad_advanced_text_color_disabled">#76C2AF</color>
+    <color name="pad_button_advanced_ripple_color">#aa212121</color>
+	<color name="background_colorpad_advanced_side">#ffffff</color>
+	
+		<color name="pad_numeric_background_color">@*common:drawable/dexter</color>
+	<color name="pad_operator_background_color">@*common:drawable/dexter</color>
+	<color name="pad_advanced_background_color">@*common:drawable/dexter</color>
+    
+</resources>

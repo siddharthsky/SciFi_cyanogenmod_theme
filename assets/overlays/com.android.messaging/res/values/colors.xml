@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#1C4C63</color>
+    <color name="action_bar_title_text_color">#ffffff</color>
+    <color name="action_bar_background_color">@color/primary_color</color>
+    <color name="action_bar_background_color_dark">#1C4C63</color>	
+    <color name="message_image_selected_tint">#80149f5b</color>
+    <color name="text_highlight_color">#80149f5b</color>
+</resources>

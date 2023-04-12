@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="0.0dip"
+        android:top="0.0dip"
+        android:right="0.0dip"
+        android:bottom="0.0dip"
+        android:drawable="@drawable/qs_icon_bg_off"/>
+    <item
+        android:top="22.0dp"
+        android:right="22.0dp"
+        android:bottom="22.0dp"
+        android:left="22.0dp"
+        android:drawable="@*common:drawable/ic_qs_visualizer_off"/>
+</layer-list>

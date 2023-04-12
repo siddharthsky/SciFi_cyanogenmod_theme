@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="detailedview_pager_background">#ffffffff</color>
+    <color name="title_author_background">#ffffffff</color>
+
+    <color name="offwhite">#1C4C63</color>
+    <color name="author_grey">#ff000000</color>
+    <color name="primary">#1C4C63</color>
+    <color name="primary_dark">#1C4C63</color>
+    <color name="accent">#1C4C63</color>
+
+
+    <color name="actionbar_text_color">#ffffffff</color>
+    <color name="primary_text_color">#1C4C63</color>
+
+    <color name="apply_button">#1C4C63</color>
+    <color name="apply_button_text_color_enabled">#ffffffff</color>
+    <color name="apply_button_text_color_disabled">#ffffffff</color>
+    <color name="apply_button_progress_color">#ff343772</color>
+    <color name="apply_button_default_color">#1C4C63</color>
+    <color name="apply_button_pressed_color">#ff343772</color>
+
+    <color name="designed_for_color">#ffffffff</color>
+    
+    <color name="drawer_item_textcolor">#ffffffff</color>
+    <color name="drawer_item_default">#ff191919</color>
+    <color name="drawer_item_pressed">#ff343772</color>
+    <color name="drawer_divider_line">#ff343772</color>
+    
+    <color name="default_circle_indicator_fill_color">#ff000000</color>
+    <color name="default_circle_indicator_page_color">#ff000000</color>
+    <color name="default_circle_indicator_stroke_color">#ff000000</color>
+
+
+
+</resources>

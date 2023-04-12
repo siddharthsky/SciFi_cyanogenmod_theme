@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector android:constantSize="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:id="@id/off">
+        <nine-patch android:gravity="center" android:src="@drawable/btn_switch_to_off_mtrl" />
+    </item>
+    <item android:state_checked="true" android:id="@id/on">
+        <nine-patch android:gravity="center" android:src="@drawable/btn_switch_to_on_mtrl" />
+    </item>
+    <item android:id="@id/off">
+        <nine-patch android:gravity="center" android:src="@drawable/btn_switch_to_off_mtrl" />
+    </item>
+	    <transition android:toId="@id/off" android:fromId="@id/on">
+        <animation-list>
+            <item android:duration="1">
+                <nine-patch android:gravity="center" android:src="@drawable/btn_switch_to_on_mtrl"  />
+            </item>
+            <item android:duration="1">
+                <nine-patch android:gravity="center" android:src="@drawable/btn_switch_to_off_mtrl" />
+            </item>
+        </animation-list>
+    </transition>
+    <transition android:toId="@id/on" android:fromId="@id/off">
+        <animation-list>
+		   <item android:duration="1">
+                <nine-patch android:gravity="center" android:src="@drawable/btn_switch_to_off_mtrl" />
+            </item>
+            <item android:duration="1">
+                <nine-patch android:gravity="center" android:src="@drawable/btn_switch_to_on_mtrl"  />
+            </item>
+        </animation-list>
+    </transition>
+</animated-selector>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mms_theme_color">#1C4C63</color>
+    <color name="mms_theme_color_dark">#1C4C63</color>
+    <color name="mms_theme_color_accent">#1C4C63</color>
+</resources>

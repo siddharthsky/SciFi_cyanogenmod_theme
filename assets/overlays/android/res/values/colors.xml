@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+
+    <color name="primary_text_default_material_light">#ff000000</color>
+    <color name="secondary_text_default_material_light">#ff000000</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="secondary_text_default_material_dark">#ffffffff</color>
+    
+    <color name="darker_gray">#1C4C63</color>
+    <color name="system_notification_accent_color">#1C4C63</color>
+    <color name="battery_saver_mode_color">#205670</color>
+	
+	 <color name="notification_icon_bg_color">@*common:color/accent</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_media_primary_color">#ffffffff</color>
+    <color name="notification_media_secondary_color">#ffd0d0d0</color>
+
+    <color name="material_deep_teal_200">#1C4C63</color>
+    <color name="material_deep_teal_500">#1C4C63</color>
+    <color name="material_blue_grey_800">#1C4C63</color>
+    <color name="material_blue_grey_900">#1C4C63</color>
+    <color name="material_blue_grey_950">#1C4C63</color>
+    <color name="accent_material_light">#004A7F</color>
+	
+    <color name="ripple_material_dark">#1C4C63</color>
+    <color name="ripple_material_light">#1C4C63</color>
+
+    <color name="user_icon_1">#1C4C63</color>
+    <color name="user_icon_2">#1C4C63</color>
+    <color name="user_icon_3">#1C4C63</color>
+    <color name="user_icon_4">#1C4C63</color>
+    <color name="user_icon_5">#1C4C63</color>
+    <color name="user_icon_6">#1C4C63</color>
+    <color name="user_icon_7">#1C4C63</color>
+    <color name="user_icon_8">#1C4C63</color>
+
+  
+</resources>

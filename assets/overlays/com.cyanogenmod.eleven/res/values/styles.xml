@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <style name="ActionBar" parent="@android:style/Widget.Material.ActionBar">
+        <item name="android:background">@*common:drawable/the1</item>
+    </style>
+	
+   
+</resources>

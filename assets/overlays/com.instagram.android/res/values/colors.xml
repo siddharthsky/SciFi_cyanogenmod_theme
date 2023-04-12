@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Instagram's Colors-->
+
+<resources>
+    <color name="primary_blue3">#1C4C63</color>
+    <color name="primary_blue4">#1C4C63</color>
+    <color name="primary_blue5">#1C4C63</color>
+	<color name="primary_color">#1C4C63</color>
+    <color name="dark_action_bar_top_highlight">#000000</color>
+    <color name="status_bar_blue_background">#1C4C63</color>
+    <color name="result_bar_active_color">#1C4C63</color>
+    <color name="camera_shutter_outer_ring">#1C4C63</color>
+    <color name="camera_shutter_outer_ring_pressed">#1C4C63</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+	<color name="blue_3">#ffeeeeee</color>
+    <color name="blue_4">#ffeeeeee</color>
+    <color name="blue_5">#1C4C63</color>
+    <color name="blue_6">#1C4C63</color>
+    <color name="gray">#000000</color>
+    <color name="grey_5">#ff9d9d9d</color>
+    <color name="grey_7">#000000</color>
+    <color name="grey_8">#000000</color>
+    <color name="accent_blue_6">#000000</color>
+</resources>

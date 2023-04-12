@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:left="0.0dip"
+        android:top="0.0dip"
+        android:right="0.0dip"
+        android:bottom="0.0dip"
+        android:drawable="@drawable/qs_icon_bg_on"/>
+    <item
+        android:top="@dimen/qs_icon_padding_on_vector_signal_top"
+        android:right="@dimen/qs_icon_padding_on_vector_signal"
+        android:bottom="@dimen/qs_icon_padding_on_vector_signal_bottom"
+        android:left="@dimen/qs_icon_padding_on_vector_signal"
+        android:drawable="@*common:drawable/ic_qs_signal_1"/>
+</layer-list>

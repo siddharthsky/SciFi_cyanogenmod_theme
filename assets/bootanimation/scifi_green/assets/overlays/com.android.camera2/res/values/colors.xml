@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="camera_mode_color">#77B3D4</color>
+    <color name="panorama_mode_color">#ffcd8071</color>
+    <color name="fullscreen_dialog_background_color">#ffffc7c7</color>
+    <color name="dialog_button_color">#77B3D4</color>
+	<color name="settings_cling_color">#77B3D4</color>
+	<color name="theme_primary">#77B3D4</color>
+    <color name="theme_accent">#77B3D4</color>
+</resources>

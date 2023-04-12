@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--ThunderSky7 ETA-->
+
+<resources>
+    <color name="quantum_gray200">#1C4C63</color>
+    <color name="quantum_googred400">#1C4C63</color>
+    <color name="quantum_googred500">#1C4C63</color>
+    <color name="quantum_googred800">#00E5FF</color>
+    <color name="text_color_undo_notification">#1C4C63</color>
+    <color name="text_color_undo_notification_description">#ffffff</color>
+</resources>

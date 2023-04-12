@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="riviera_promo_header_square">#1C4C63</color>
+    <color name="quantum_googred500">#1C4C63</color>
+    <color name="quantum_googred700">#1C4C63</color>
+	
+    <item type="color" name="action_bar_background">#1C4C63</item>
+	
+	<color name="profile_edit_bg">#1C4C63</color>
+	<color name="host_background">#1C4C63</color>
+	<color name="card_separator">#1C4C63</color>
+	<color name="separator">#1C4C63</color>
+	<color name="large_image_embed_border">#1C4C63</color>
+	<color name="compose_panel_bg">#1C4C63</color>
+	<color name="notification_item_background_unread">#1C4C63</color>
+	<color name="notification_item_background_read">#1C4C63</color>
+	<color name="no_notifications_view_background">#1C4C63</color>
+	<color name="write_place_review_bg">#1C4C63</color>
+	
+
+</resources>

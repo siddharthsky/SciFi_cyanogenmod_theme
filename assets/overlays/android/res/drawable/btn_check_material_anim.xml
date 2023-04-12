@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:state_checked="true">
+        <bitmap android:src="@drawable/locktrans21" android:tint="?android:colorControlActivated" android:alpha="?android:disabledAlpha" />
+    </item>
+    <item android:state_enabled="false">
+        <bitmap android:src="@drawable/locktrans1" android:tint="?android:colorControlNormal" android:alpha="?android:disabledAlpha" />
+    </item>
+    <item android:state_checked="true" android:id="@*android:id/on">
+        <bitmap android:src="@drawable/locktrans21" android:tint="?android:colorControlActivated" />
+    </item>
+    <item android:id="@*android:id/off">
+        <bitmap android:src="@drawable/locktrans1" android:tint="?android:colorControlNormal" />
+    </item>
+    <transition android:toId="@*android:id/on" android:fromId="@*android:id/off">
+        <animation-list>
+            <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans1" android:tint="?android:colorControlNormal" />
+            </item>
+            <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans1" android:tint="?android:colorControlNormal" />
+            </item>
+            <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans2" android:tint="?android:colorControlNormal" />
+            </item>
+            <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans3" android:tint="?android:colorControlNormal" />
+            </item>
+            <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans4" android:tint="?android:colorControlNormal" />
+            </item>
+            <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans5" android:tint="?android:colorControlNormal" />
+            </item>
+            <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans6" android:tint="?android:colorControlNormal" />
+            </item>
+			 <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans7" android:tint="?android:colorControlNormal" />
+            </item>
+			 <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans8" android:tint="?android:colorControlNormal" />
+            </item>
+			 <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans9" android:tint="?android:colorControlNormal" />
+            </item>
+			 <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans10" android:tint="?android:colorControlNormal" />
+            </item>
+			 <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans11" android:tint="?android:colorControlNormal" />
+            </item>
+			 <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans12" android:tint="?android:colorControlActivated" />
+            </item>
+			 <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans13" android:tint="?android:colorControlActivated" />
+            </item>
+			    <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans14" android:tint="?android:colorControlActivated" />
+            </item>
+			<item android:duration="15">
+                <bitmap android:src="@drawable/locktrans15" android:tint="?android:colorControlActivated" />
+            </item>
+			 <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans16" android:tint="?android:colorControlActivated" />
+            </item>
+			<item android:duration="15">
+                <bitmap android:src="@drawable/locktrans17" android:tint="?android:colorControlActivated" />
+            </item>
+		    <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans18" android:tint="?android:colorControlActivated" />
+            </item>
+			<item android:duration="15">
+                <bitmap android:src="@drawable/locktrans19" android:tint="?android:colorControlActivated" />
+            </item>
+				<item android:duration="15">
+                <bitmap android:src="@drawable/locktrans20" android:tint="?android:colorControlActivated" />
+            </item>
+			   <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans21" android:tint="?android:colorControlActivated" />
+            </item>
+			    <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans20" android:tint="?android:colorControlActivated" />
+            </item>	
+			    <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans21" android:tint="?android:colorControlActivated" />
+            </item>	
+        </animation-list>
+    </transition>
+    <transition android:toId="@*android:id/off" android:fromId="@*android:id/on">
+        <animation-list>  
+		    <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans21" android:tint="?android:colorControlActivated" />
+            </item>
+		    <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans20" android:tint="?android:colorControlActivated" />
+            </item>
+		    <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans19" android:tint="?android:colorControlActivated" />
+            </item>
+		    <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans18" android:tint="?android:colorControlActivated" />
+            </item>
+		    <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans17" android:tint="?android:colorControlActivated" />
+            </item>
+		    <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans16" android:tint="?android:colorControlActivated" />
+            </item>
+				    <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans15" android:tint="?android:colorControlActivated" />
+            </item>
+		    <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans14" android:tint="?android:colorControlActivated" />
+            </item>
+		    <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans13" android:tint="?android:colorControlActivated" />
+            </item>
+		
+		    <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans12" android:tint="?android:colorControlActivated" />
+            </item>
+		    <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans11" android:tint="?android:colorControlNormal" />
+            </item>
+ <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans10" android:tint="?android:colorControlNormal" />
+            </item>
+
+ <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans9" android:tint="?android:colorControlNormal" />
+            </item>
+ <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans8" android:tint="?android:colorControlNormal" />
+            </item>
+
+	 <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans7" android:tint="?android:colorControlNormal" />
+            </item>
+            <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans6" android:tint="?android:colorControlActivated" />
+            </item>
+            <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans5" android:tint="?android:colorControlActivated" />
+            </item>
+            <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans4" android:tint="?android:colorControlNormal" />
+            </item>
+            <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans3" android:tint="?android:colorControlNormal" />
+            </item>
+            <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans2" android:tint="?android:colorControlNormal" />
+            </item>
+            <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans1" android:tint="?android:colorControlNormal" />
+            </item>
+            <item android:duration="15">
+                <bitmap android:src="@drawable/locktrans1" android:tint="?android:colorControlNormal" />
+            </item>
+        </animation-list>
+    </transition>
+</animated-selector>

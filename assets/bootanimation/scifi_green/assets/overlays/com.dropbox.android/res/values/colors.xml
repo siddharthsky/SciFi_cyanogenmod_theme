@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="actionBarBackground">#1C4C63</color>
+    <color name="circle_indicator_selected">#1C4C63</color>
+
+	
+    <color name="dbx_primary">#1C4C63</color>
+    <color name="dbx_primary_dark">#1C4C63</color>
+    <color name="new_dropbox_blue">#1C4C63</color>
+	
+ 
+</resources>

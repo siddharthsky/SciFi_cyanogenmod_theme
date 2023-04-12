@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_color">#1C4C63</color>
+    <color name="dialog_text_color">#1C4C63</color>
+    <color name="default_background">#ffffffff</color>
+    <color name="default_background_disabled">#ffffffff</color>
+    <color name="actionbar_palette_blue_primary">#1C4C63</color>
+    <color name="divider_color">#ff7b84ae</color>
+    <color name="divider_color_light">#ff7b84ae</color>
+    <color name="material_palette_blue_primary_dark">#1C4C63</color>
+
+
+
+</resources>

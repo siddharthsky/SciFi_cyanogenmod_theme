@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="Theme.Calculator.Display" parent="@android:style/Widget.Holo.EditText">
+<item name="android:background">#1C4C63</item>
+</style>
+</resources>

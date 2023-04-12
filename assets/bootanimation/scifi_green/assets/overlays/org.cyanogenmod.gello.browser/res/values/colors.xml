@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">@*common:color/primary</color>
+    <color name="primary_dark">@*common:color/primary_dark</color>
+    <color name="navigation_bars">@color/primary</color>
+    <color name="browser_window_background">@*common:color/dark_bg</color>
+
+</resources>

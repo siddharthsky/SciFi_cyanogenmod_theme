@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#2D7A9E</color>
+    <color name="primary">#2D7A9E</color>
+	    <color name="primarya">#ffffff</color>
+        <color name="primary_dark">#ffffff</color>
+    <color name="accent">#ffffff</color>
+    <color name="floating_action_button_touch_tint">#777777</color>
+       <color name="qc_normal">#ffffff</color>
+    <color name="qc_selected">#ffffff</color>
+    <color name="qc_sub">#ffffff</color>
+    <color name="qc_tab_nr">#ffffff</color>
+    <color name="tabFocusHighlight">#ffffff</color>
+	    <color name="tabFaviconBackground">#ffffff</color>
+</resources>

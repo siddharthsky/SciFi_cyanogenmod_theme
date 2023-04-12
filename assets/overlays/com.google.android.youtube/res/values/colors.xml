@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--ThunderSky7 ETA-->
+
+<resources>
+	<color name="account_switcher_color_primary">#1C4C63</color>
+	<color name="upload_edit_video_tutorial_background">#1C4C63</color>
+	<color name="color_primary">#000000</color>
+	<color name="q_subscribe_button_subscribe_font_color">#ff212121</color>
+	
+        <color name="theme_main_color_primary">#ff1C4C63</color>
+        <color name="theme_main_color_primary_dark">#ff5EFFFF</color>
+        <color name="theme_main_tab_text_color_normal">#ffffff</color>
+        <color name="theme_main_tab_text_color_activated">#ffffff</color>
+
+        <color name="theme_channel_color_primary">#ff1C4C63</color>
+        <color name="theme_channel_color_primary_dark">#ff5EFFFF</color>
+        <color name="theme_channel_actionbar_text_color_primary">#ffffff</color>
+        <color name="theme_channel_actionbar_text_color_secondary">#ffffff</color>
+
+	<color name="theme_search_color_primary">#616161</color>
+	<color name="theme_search_color_primary_dark">#757575</color>
+	<color name="theme_search_actionbar_text_color_primary">#ffffffff</color>
+        <color name="link_text_material_dark">#1C4C63</color>
+        <color name="link_text_material_light">#5EFFFF</color>
+	
+        <color name="theme_watch_color_primary">#ff1C4C63</color>
+        <color name="theme_watch_color_primary_dark">#ff5EFFFF</color>
+        <color name="theme_watch_actionbar_text_color_primary">#ffffffff</color>
+        <color name="theme_watch_actionbar_text_color_secondary">#ffffffff</color>
+        <color name="theme_search_actionbar_text_color_secondary">#ffffffff</color>
+        <color name="theme_native_color_primary">#ff1C4C63</color>
+        <color name="theme_native_color_primary_dark">#ff5EFFFF</color>
+        <color name="theme_native_actionbar_text_color_primary">#ffffffff</color>
+        <color name="theme_native_actionbar_text_color_secondary">#ffffffff</color>
+	
+	<color name="theme_main_actionbar_controls_color">#ffffffff</color>
+	<color name="theme_main_window_background">#ffffffff</color>
+        <color name="share_panel_background_color">#ff1C4C63</color>
+	
+        <color name="playlist_header_color_primary">#ff1C4C63</color>
+        <color name="playlist_header_color_primary_dark">#ff5EFFFF</color>
+
+	<color name="background_material_light">#ff1C4C63</color>
+	<color name="background_floating_material_light">#ff1C4C63</color>
+	<color name="callout_drawable_background_color">#ff1C4C63</color>
+	<color name="video_trim_view_container_bottom">#ff1C4C63</color>
+	
+        <color name="guide_background">#ffffff</color>
+	<color name="guide_bg_selected">#5EFFFF</color>
+        <color name="guide_selected_text_color">#ffffff</color>
+        <color name="guide_label_text_color">#212121</color>
+        <color name="guide_account_thumbnail_background">#ffffff</color>
+</resources>

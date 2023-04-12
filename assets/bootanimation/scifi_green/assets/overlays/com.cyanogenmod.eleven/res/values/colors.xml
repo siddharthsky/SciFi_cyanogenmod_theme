@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1C4C63</color>
+    <color name="primary_dark">#1C4C63</color>
+    <color name="primary_light">#1C4C63</color>
+    <color name="accent">#1C4C63</color>
+    <color name="header_action_bar_color">#1C4C63</color>
+
+	<color name="tab_ripple_color">#ffFFE57F</color>
+    <color name="tab_accent_color">#ffFFE57F</color>
+    <color name="tab_selected_underline_color">#ffFFE57F</color>
+	<color name="actionbar_unselected_text_color">#ffB6E1DB</color>
+	
+</resources>

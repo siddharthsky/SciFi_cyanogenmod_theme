@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <color name="accent_color">#1C4C63</color>
+	<color name="action_bar_text_color">@android:color/white</color>
+
+    <color name="action_bar_background_color">#1C4C63</color>
+    <color name="active_action_bar_background_color">#1C4C63</color>
+    <color name="browse_secondary_status_bar_color">#1C4C63</color>
+	
+	<color name="primary_color">#1C4C63</color>
+    <color name="primary_material_dark">#1C4C63</color>
+    <color name="primary_material_light">#1C4C63</color>
+    <color name="primary_dark_material_dark">#1C4C63</color>
+    <color name="primary_dark_material_light">#1C4C63</color>
+    <color name="primary_color_dark">#1C4C63</color>
+
+
+</resources>

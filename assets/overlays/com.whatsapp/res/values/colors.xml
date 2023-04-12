@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="primary">#1C4C63</color>
+	<color name="primary_dark">#1C4C63</color>
+	
+	
+<color name="link_color_incoming">#651FFF</color>
+    <color name="link_color_outgoing">#651FFF</color>
+    <color name="link_text_material_dark">#651FFF</color>
+    <color name="link_text_material_light">#651FFF</color>
+    
+</resources>

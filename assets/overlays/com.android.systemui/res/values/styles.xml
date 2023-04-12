@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="DualToneLightTheme">
+        <item name="backgroundColor">@color/light_mode_icon_color_dual_tone_background</item>
+        <item name="fillColor">@color/light_mode_icon_color_dual_tone_fill</item>
+        <item name="singleToneColor">@color/light_mode_icon_color_single_tone</item>
+    </style>
+    <style name="DualToneDarkTheme">
+        <item name="backgroundColor">@color/dark_mode_icon_color_dual_tone_background</item>
+        <item name="fillColor">@color/dark_mode_icon_color_dual_tone_fill</item>
+        <item name="singleToneColor">@color/dark_mode_icon_color_single_tone</item>
+    </style>
+</resources>

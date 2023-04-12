@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <drawable name="ic_liquid_themes_settings">@drawable/ic_settings_themes</drawable>
+    <drawable name="ic_settings_theme">@drawable/ic_settings_themes</drawable>
+    <drawable name="prd_ic_themepacks">@drawable/ic_settings_themes</drawable>
+    <drawable name="ic_settings_themes_tint">@drawable/ic_settings_themes</drawable>
+    <drawable name="ic_settings_theme_tint">@drawable/ic_settings_themes</drawable>
+    <drawable name="ic_themes_tint">@drawable/ic_settings_themes</drawable>
+
+    <item name="expanded_item_bg_activated" type="drawable">@*common:color/10</item>
+    <item name="expanded_item_bg" type="drawable">@*common:color/15</item>
+</resources>

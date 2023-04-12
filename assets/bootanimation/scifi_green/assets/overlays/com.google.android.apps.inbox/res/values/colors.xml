@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="bt_done_green">#1C4C63</color>
+		<color name="bt_container_blue">#1C4C63</color>
+		<color name="bt_snooze_yellow">#1C4C63</color>
+		<color name="bt2">#1C4C63</color>
+		<color name="bt_status_bar_done">@color/bt2</color>
+		<color name="bt_status_bar_inbox">@color/bt2</color>
+		<color name="bt_status_bar_snoozed">@color/bt2</color>
+		<color name="bt_action_bar_background_done">@color/bt2</color>
+		<color name="bt_action_bar_background_inbox">@color/bt2</color>
+		<color name="bt_action_bar_background_upcoming">@color/bt2</color>
+		<color name="bt_action_bar_background_grey">#1C4C63</color>
+		<color name="bt_action_bar_background_white">#1C4C63</color>
+		<color name="bt_status_bar_brick">#1C4C63</color>
+		<color name="bt_status_bar_default">#1C4C63</color>
+</resources>

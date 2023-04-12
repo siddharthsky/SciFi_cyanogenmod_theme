@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="floating_action_button_icon_color">#00FFFF</color>
+    <color name="system_accent_color">#00FFFF</color>
+    <color name="system_primary_color">#1C4C63</color>
+    <color name="system_secondary_color">#1C4C63</color>
+    <color name="qs_tile_text">#00FFFF</color>
+
+    <color name="dark_mode_icon_color_single_tone">#99000000</color>
+    <color name="dark_mode_icon_color_dual_tone_background">#3d000000</color>
+    <color name="dark_mode_icon_color_dual_tone_fill">#7a000000</color>
+    <color name="light_mode_icon_color_single_tone">#ffffffff</color>
+    <color name="light_mode_icon_color_dual_tone_background">#4dffffff</color>
+    <color name="light_mode_icon_color_dual_tone_fill">#ffffffff</color>
+
+
+   
+
+</resources>

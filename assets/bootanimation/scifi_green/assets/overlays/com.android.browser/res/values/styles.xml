@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BrowserTheme" parent="@android:style/Theme.Material">
+        <item name="android:background">@color/primary</item>
+        <item name="android:colorBackground">@color/black</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:windowBackground">@color/black</item>
+    </style>
+	  <style name="BookmarkTheme" parent="@android:style/Theme.Material" >
+		<item name="android:statusBarColor">@color/primarya</item>
+	</style>
+    <style name="PreferencesTheme" parent="@android:style/Theme.Material" >
+		<item name="android:statusBarColor">@color/primarya</item>
+	</style>
+
+    <style name="DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
+        <item name="android:popupBackground">#ff000000</item>
+        <item name="android:statusBarColor">@color/primary</item>
+    </style>
+  
+</resources>

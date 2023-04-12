@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		  <style name="MmsTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">@*common:color/action_bar_color</item>
+        <item name="android:colorPrimaryDark">@*common:color/action_bar_color</item>
+        <item name="android:colorAccent">@*common:color/action_bar_color</item>
+		  <item name="android:actionBarStyle">@style/MmsActionBarStyle</item>
+		 <item name="android:navigationBarColor">@*common:color/navbar_color</item>
+    </style>
+	
+		    <style name="MmsActionBarStyle" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
+        <item name="android:background">@*common:drawable/the1</item>
+    </style>
+</resources>

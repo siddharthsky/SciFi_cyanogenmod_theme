@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <style name="TextAppearance.Material.Button" parent="@*android:style/TextAppearance.Material">
+        <item name="android:textSize">@*android:dimen/text_size_button_material</item>
+        <item name="android:textColor">@*common:color/ab_text_color</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">@*android:string/font_family_button_material</item>
+    </style>
+	<style name="TextAppearance.Material.Widget.Toolbar.Title" parent="@*android:style/TextAppearance.Material.Widget.ActionBar.Title" >
+		<item name="android:textColor">@*common:color/ab_text_color</item>
+        <item name="android:textColorHighlight">@*common:color/ab_text_color</item>
+        <item name="android:textColorHint">@*common:color/ab_text_color</item>
+        <item name="android:textColorLink">@*common:color/ab_text_color</item>
+	</style>
+    <style name="TextAppearance.Material.Widget.Toolbar.Subtitle" parent="@*android:style/TextAppearance.Material.Widget.ActionBar.Subtitle" >
+		<item name="android:textColor">@*common:color/ab_text_color</item>
+        <item name="android:textColorHighlight">@*common:color/ab_text_color</item>
+        <item name="android:textColorHint">@*common:color/ab_text_color</item>
+        <item name="android:textColorLink">@*common:color/ab_text_color</item>
+	</style>
+</resources>

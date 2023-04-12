@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_setting_bg_icon"
+        android:top="0dp" android:left="0dp" android:bottom="0dp" android:right="0dp"/>
+	<item
+        android:drawable="@*common:drawable/ic_settings_accessibility"
+		android:top="@dimen/ic_settings_side_margin"
+        android:right="@dimen/ic_settings_side_margin"
+        android:bottom="@dimen/ic_settings_side_margin"
+        android:left="@dimen/ic_settings_side_margin"/>
+</layer-list>

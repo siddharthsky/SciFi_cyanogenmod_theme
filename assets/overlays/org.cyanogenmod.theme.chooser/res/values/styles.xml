@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:textColorPrimary">@color/primary_text_color</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionBarOverlay">false</item>
+        <item name="android:actionMenuTextColor">@android:color/white</item>
+        <item name="android:colorPrimary">#1C4C63</item>
+        <item name="android:colorPrimaryDark">#1C4C63</item>
+        <item name="android:colorAccent">#1C4C63</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+
+</resources>

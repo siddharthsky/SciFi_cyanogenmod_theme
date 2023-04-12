@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hour_00">@color/deskclock_color</color>
+    <color name="hour_01">@color/deskclock_color</color>
+    <color name="hour_02">@color/deskclock_color</color>
+    <color name="hour_03">@color/deskclock_color</color>
+    <color name="hour_04">@color/deskclock_color</color>
+    <color name="hour_05">@color/deskclock_color</color>
+    <color name="hour_06">@color/deskclock_color</color>
+    <color name="hour_07">@color/deskclock_color</color>
+    <color name="hour_08">@color/deskclock_color</color>
+    <color name="hour_09">@color/deskclock_color</color>
+    <color name="hour_10">@color/deskclock_color</color>
+    <color name="hour_11">@color/deskclock_color</color>
+    <color name="hour_12">@color/deskclock_color</color>
+    <color name="hour_13">@color/deskclock_color</color>
+    <color name="hour_14">@color/deskclock_color</color>
+    <color name="hour_15">@color/deskclock_color</color>
+    <color name="hour_16">@color/deskclock_color</color>
+    <color name="hour_17">@color/deskclock_color</color>
+    <color name="hour_18">@color/deskclock_color</color>
+    <color name="hour_19">@color/deskclock_color</color>
+    <color name="hour_20">@color/deskclock_color</color>
+    <color name="hour_21">@color/deskclock_color</color>
+    <color name="hour_22">@color/deskclock_color</color>
+    <color name="hour_23">@color/deskclock_color</color>
+</resources>
