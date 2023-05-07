@@ -48,8 +48,6 @@ and More.
 
 ![http://i.imgur.com/3ItFRZN.jpg](http://i.imgur.com/3ItFRZN.jpg)
 
-> **0. Download .apk file from above link.
-
 >1. Install As Normal Theme APK.
 
 >2. Apply
