@@ -60,7 +60,7 @@ Download the theme from: https://play.google.com/store/apps/details?id=com.pro7t
 
 ![http://i.imgur.com/OemSOZe.jpg](http://i.imgur.com/OemSOZe.jpg)
 
-Get your hands on the full theme!
+Get the full theme!
 
 ![http://i.imgur.com/OF975Lx.jpg](http://i.imgur.com/OF975Lx.jpg)
 
