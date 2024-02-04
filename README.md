@@ -54,9 +54,7 @@ To install the theme:
 * Get a free upgrade to Neon Green & Neon Red
 * Support development
 
-[![http://i.imgur.com/uwh3CMz.png](http://i.imgur.com/uwh3CMz.png)]('https://play.google.com/store/apps/details?id=com.pro7t.SciFi')
-
-Download the theme from: https://play.google.com/store/apps/details?id=com.pro7t.SciFi
+[![https://play.google.com/store/apps/details?id=com.pro7t.SciFi](http://i.imgur.com/uwh3CMz.png)]('https://play.google.com/store/apps/details?id=com.pro7t.SciFi')
 
 ![http://i.imgur.com/OemSOZe.jpg](http://i.imgur.com/OemSOZe.jpg)
 
