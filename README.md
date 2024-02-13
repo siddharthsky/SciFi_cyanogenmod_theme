@@ -57,13 +57,3 @@ To install the theme:
  <a href="https://play.google.com/store/apps/details?id=com.pro7t.SciFi"><img src="http://i.imgur.com/uwh3CMz.png" alt="AI" width="150"></a>
 
 
-
-![http://i.imgur.com/OemSOZe.jpg](http://i.imgur.com/OemSOZe.jpg)
-
-Get the full theme!
-
-![http://i.imgur.com/OF975Lx.jpg](http://i.imgur.com/OF975Lx.jpg)
-
-Follow ThunderSky7 on XDA developers.
-
-![http://i.imgur.com/ZJTBbf9.jpg](http://i.imgur.com/ZJTBbf9.jpg)
